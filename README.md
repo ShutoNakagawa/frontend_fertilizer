@@ -3,7 +3,7 @@ For frontend engineer's sample file
 
 ## Standard layout
 ファイル構成
-- standard-layout
+- standard layout
   - image
   - css
     - reset.css
@@ -15,7 +15,7 @@ For frontend engineer's sample file
 
 ## Grid layout
 ファイル構成
-- grid-layout
+- grid layout
   - image
   - css
     - reset.css
@@ -27,7 +27,7 @@ For frontend engineer's sample file
 
 ## Singlepage layout
 ファイル構成
-- singlepage-layout
+- singlepage layout
   - image
   - js
     - placeholders.min.js
@@ -38,6 +38,19 @@ For frontend engineer's sample file
   - index.html
 
 個人のポートフォリオサイトやランディングページなどで使用。
+
+## SCSS Tips
+ファイル構成
+- SCSS Tips
+  - css
+    - reset.css
+    - style.css
+  - scss
+    - style.scss
+  - index.html
+
+Flexボックスを使った簡単なレイアウト+CSS変数の簡単な使い方。
+（どこかでもう少しきれいに整える。）
 
 ## Dreamweaver 注意点
 - Sassを使う場合
